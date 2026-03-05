@@ -20,11 +20,20 @@ The dashboard consists of two specialized pages:
 
 ## 🖼️ Dashboard Preview
 
-### 1️⃣ Energy Consumption Analysis
-![Consumption Dashboard]()
 
-### 2️⃣ Energy Pricing Analysis
-![Price Dashboard](./superstore/price_image.png)
+### 1️⃣ Energy Pricing Analysis
+![Price Dashboard](<img width="1848" height="631" alt="Screenshot 2026-03-05 101400" src="https://github.com/user-attachments/assets/d6800eee-2ffd-4d65-98af-679f9806bd10" />
+)
+
+### 2️⃣ Energy Consumption Analysis
+![Consumption Dashboard](<img width="1816" height="601" alt="Screenshot 2026-03-05 105203" src="https://github.com/user-attachments/assets/5613a6f8-9d8b-43a0-9adf-b92423084f7b" />
+)
+
+
+### 3️⃣Video Demonstration
+<video https://github.com/user-attachments/assets/f3a219c7-ce84-4a8b-a29f-f813e682778e ">
+</video>
+
 
 ---
 
