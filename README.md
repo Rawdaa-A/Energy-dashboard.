@@ -29,7 +29,9 @@ The dashboard consists of two specialized pages:
 
 
 ### 3️⃣Video Demonstration
- https://github.com/user-attachments/assets/f3a219c7-ce84-4a8b-a29f-f813e682778e "
+ <video src="https://github.com/user-attachments/assets/f3a219c7-ce84-4a8b-a29f-f813e682778e" controls="controls" style="max-width: 100%;">
+</video>
+
 
 
 
