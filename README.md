@@ -22,7 +22,7 @@ The dashboard consists of two specialized pages:
 
 
 ### 1️⃣ Energy Pricing Analysis
-![Price Dashboard](Week07/Screenshot_2026-03-05_101400.png)
+![Price Dashboard](https://github.com/Rawdaa-A/Energy-dashboard./blob/main/Week%2007/Screenshot%202026-03-05%20101400.png?raw=true)
 
 ### 2️⃣ Energy Consumption Analysis
 ![Consumption Dashboard](https://github.com/user-attachments/assets/5613a6f8-9d8b-43a0-9adf-b92423084f7b)
