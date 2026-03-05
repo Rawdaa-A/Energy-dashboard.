@@ -25,13 +25,12 @@ The dashboard consists of two specialized pages:
 ![Price Dashboard](Week07/Screenshot_2026-03-05_101400.png)
 
 ### 2️⃣ Energy Consumption Analysis
-![Consumption Dashboard](<img width="1816" height="601" alt="Screenshot 2026-03-05 105203" src="https://github.com/user-attachments/assets/5613a6f8-9d8b-43a0-9adf-b92423084f7b" />
-)
+![Consumption Dashboard](https://github.com/user-attachments/assets/5613a6f8-9d8b-43a0-9adf-b92423084f7b)
 
 
 ### 3️⃣Video Demonstration
-<video https://github.com/user-attachments/assets/f3a219c7-ce84-4a8b-a29f-f813e682778e ">
-</video>
+ https://github.com/user-attachments/assets/f3a219c7-ce84-4a8b-a29f-f813e682778e "
+
 
 
 ---
