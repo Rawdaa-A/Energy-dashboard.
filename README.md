@@ -22,8 +22,7 @@ The dashboard consists of two specialized pages:
 
 
 ### 1️⃣ Energy Pricing Analysis
-![Price Dashboard](<img width="1848" height="631" alt="Screenshot 2026-03-05 101400" src="https://github.com/user-attachments/assets/d6800eee-2ffd-4d65-98af-679f9806bd10" />
-)
+![Price Dashboard](Week 07/creenshot 2026-03-05 101400.png)
 
 ### 2️⃣ Energy Consumption Analysis
 ![Consumption Dashboard](<img width="1816" height="601" alt="Screenshot 2026-03-05 105203" src="https://github.com/user-attachments/assets/5613a6f8-9d8b-43a0-9adf-b92423084f7b" />
